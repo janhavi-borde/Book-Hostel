@@ -13,8 +13,8 @@ app.post('/api/forma',(req,res)=>{
         service: 'Gmail',
         port:465,
         auth: {
-            user: 'janhaviborde23@gmail.com',
-            pass: 'avinashharsha'
+            user: 'username@gmail.com',
+            pass: '*******'
         }
     });
 let mailOptions = {
